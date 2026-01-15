@@ -1,14 +1,14 @@
 # ✈️ Flight Booking Website
 
 A modern **Flight Booking Web Application** built using **React.js, Redux Toolkit, and Tailwind CSS**.  
-This project simulates a real-world flight booking experience including user authentication, flight search, seat booking, checkout, and ticket viewing — all handled on the frontend using **Redux state management and LocalStorage**.
+This project simulates a real-world flight booking experience including user authentication, seat booking, checkout, and ticket viewing — all handled on the frontend using **Redux state management and LocalStorage**.
 
 ---
 
 ## 🌐 Live Demo (Vercel)
 
 🚀 **Hosted URL:**  
-👉 https://flight-booking-website-using-redux.vercel.app/
+👉 https://flight-booking-website-using-redux-theta.vercel.app/
 
 ## 📌 Project Overview
 
