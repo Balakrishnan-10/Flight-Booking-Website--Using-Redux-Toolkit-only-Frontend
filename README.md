@@ -139,7 +139,7 @@ Shows all available flights with airline details, timing, and pricing.
 ### 🧾 Checkout Page
 Displays selected flight details and booking summary before payment.
 
-![Checkout Page Screenshot](/ScreenShots//checkout.png)
+![Checkout Page Screenshot](/ScreenShots/checkout.png)
 
 ---
 

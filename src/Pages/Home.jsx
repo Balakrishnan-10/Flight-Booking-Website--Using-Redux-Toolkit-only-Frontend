@@ -75,7 +75,7 @@ const Home = () => {
 
                         <div className="overflow-hidden">
                             <img
-                                src="/public/thai.jpg"
+                                src="/thai.jpg"
                                 alt="Thailand"
                                 className="
             w-full h-56 object-cover
@@ -106,7 +106,7 @@ const Home = () => {
                     <div className="group rounded-xl overflow-hidden shadow-lg bg-white">
                         <div className="overflow-hidden">
                             <img
-                                src="/public/hong.jpg"
+                                src="/hong.jpg"
                                 alt="Honghand"
                                 className="
             w-full h-56 object-cover
@@ -130,7 +130,7 @@ const Home = () => {
                     <div className="group rounded-xl overflow-hidden shadow-lg bg-white">
                         <div className="overflow-hidden">
                             <img
-                                src="/public/swiz.jpg"
+                                src="/swiz.jpg"
                                 alt="Swiz"
                                 className="
             w-full h-56 object-cover

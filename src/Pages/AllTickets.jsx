@@ -68,13 +68,11 @@ const AllTickets = () => {
                 <p>📅 {booking.date}</p>
                 <p>⏰ {formatTimeAMPM(booking.departure)}</p>
               </div>
-
-              {/* Price */}
+              
               <p className="mt-3 text-lg font-bold text-red-600">
                 ₹{booking.price}
               </p>
 
-              {/* Actions */}
               <div className="flex gap-3 mt-4">
                 <button
                   onClick={() =>

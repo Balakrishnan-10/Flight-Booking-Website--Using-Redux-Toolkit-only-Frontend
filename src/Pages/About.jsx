@@ -42,7 +42,7 @@ const About = () => {
                 <div>
                     <img
                         className="w-full h-48 sm:h-64 md:h-80 lg:h-96 object-cover rounded-2xl shadow-md"
-                        src="/public/06.jpg"
+                        src="/06.jpg"
                         alt="Main banner"
                     />
                 </div>
@@ -51,31 +51,31 @@ const About = () => {
 
                     <img
                         className="w-full h-32 md:h-40 object-cover rounded-xl"
-                        src="/public/03.jpg"
+                        src="/03.jpg"
                         alt=""
                     />
 
                     <img
                         className="w-full h-32 md:h-40 object-cover rounded-xl"
-                        src="/public/04.jpg"
+                        src="/04.jpg"
                         alt=""
                     />
 
                     <img
                         className="w-full h-32 md:h-40 object-cover rounded-xl"
-                        src="/public/02.jpg"
+                        src="/02.jpg"
                         alt=""
                     />
 
                     <img
                         className="w-full h-32 md:h-40 object-cover rounded-xl"
-                        src="/public/05.jpg"
+                        src="/05.jpg"
                         alt=""
                     />
 
                     <img
                         className="w-full h-32 md:h-40 object-cover rounded-xl"
-                        src="/public/07.jpg"
+                        src="/07.jpg"
                         alt=""
                     />
                 </div>
@@ -133,7 +133,7 @@ const About = () => {
                         <div className="bg-white p-6 rounded-xl shadow">
                             <img
                                 alt="Larry"
-                                src="/public/larry.jpg"
+                                src="/larry.jpg"
                                 className="w-full rounded-lg bg-white object-cover group-hover:opacity-75 max-sm:h-80 sm:aspect-2/1 lg:aspect-square"
                             />
                             <h3 className="font-semibold">Larry Lawson</h3>
@@ -143,7 +143,7 @@ const About = () => {
                         <div className="bg-white p-6 rounded-xl shadow">
                             <img
                                 alt="Louis"
-                                src="/public/loius.jpg"
+                                src="/loius.jpg"
                                 className="w-full rounded-lg bg-white object-cover group-hover:opacity-75 max-sm:h-80 sm:aspect-2/1 lg:aspect-square"
                             />
                             <h3 className="font-semibold">Louis Ferguson</h3>
@@ -153,7 +153,7 @@ const About = () => {
                         <div className="bg-white p-6 rounded-xl shadow">
                             <img
                                 alt="Crawfrod"
-                                src="/public/craw.jpg"
+                                src="/craw.jpg"
                                 className="w-full rounded-lg bg-white object-cover group-hover:opacity-75 max-sm:h-80 sm:aspect-2/1 lg:aspect-square"
                             />
                             <h3 className="font-semibold">Louis Crawford</h3>
@@ -163,7 +163,7 @@ const About = () => {
                         <div className="bg-white p-6 rounded-xl shadow">
                             <img
                                 alt="Frances"
-                                src="/public/france.jpg"
+                                src="/france.jpg"
                                 className="w-full rounded-lg bg-white object-cover group-hover:opacity-75 max-sm:h-80 sm:aspect-2/1 lg:aspect-square"
                             />
                             <h3 className="font-semibold">Frances Guerrero</h3>
